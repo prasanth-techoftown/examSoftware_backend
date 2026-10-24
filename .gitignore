@@ -1,0 +1,9 @@
+.env
+Keys
+/node_modules
+/dist
+keys
+.zip
+uploads/
+readme.md
+README.md

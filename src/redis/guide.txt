@@ -1,0 +1,7 @@
+stop redis server:: redis-cli shutdown
+start redis server:: redis-server
+check redis is working or not:: redis-cli ping
+
+get all key:: redis-cli keys '*'
+set key and value:: set key value
+get value by key :: get key_name
